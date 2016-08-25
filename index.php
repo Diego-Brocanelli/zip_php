@@ -1,12 +1,5 @@
 <?php
 
-
-//necessário a extenção zip instalada no PHP
-// parainstalar no ubuntu 
-//  sudo apt-get install php7-0-zip
-//  
-
-
 $fileName  = 'zipFile.zip';
 $path      = __DIR__ . '/files';
 $fullPath  = $path.'/'.$fileName;
